@@ -17,3 +17,7 @@ def test_say_hello_run_without_exceptions():
             f'При запуске функции `{EXPECTED_FUNC_NAME}` возникло '
             f'исключение: {type(error).__name__}: {error}`'
         )
+    
+
+
+    
